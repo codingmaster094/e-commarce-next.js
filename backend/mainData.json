@@ -1,0 +1,204 @@
+[
+    {
+        "Product_offer": 40,
+        "Product_name": "LEATHER BELT",
+        "link": "https://www.zara.com/in/en/leather-belt-p05919306.html",
+        "product_image": "https://static.zara.net/photos///2023/I/0/2/p/5919/306/800/2/w/448/5919306800_6_1_1.jpg?ts=1689260306189",
+        "Product_price": "? 2,990.00",
+        "description": "Leather belt. Metal loop and buckle fastening with embossed description."
+      },
+    {
+        "Product_offer": 2,
+        "Product_name": "LEATHER BELT WITH SQUARE BUCKLE",
+        "link": "https://www.zara.com/in/en/leather-belt-with-square-buckle-p06399203.html",
+        "product_image": "https://static.zara.net/photos///2023/I/0/1/p/6399/203/700/2/w/448/6399203700_1_1_1.jpg?ts=1692868198780",
+        "Product_price": "? 2,590.00",
+        "description": "Leather belt with a square buckle and loops lined in the same material."
+      },
+    {
+        "Product_offer": 10,
+        "Product_name": "MULTI-POCKET BACKPACK",
+        "link": "https://www.zara.com/in/en/multi-pocket-backpack-p13217220.html",
+        "product_image": "https://static.zara.net/photos///2023/I/1/2/p/3217/220/107/2/w/448/3217220107_2_1_1.jpg?ts=1692627350123",
+        "Product_price": "? 5,590.00",
+        "description": "Multi-pocket backpack made of technical fabric. Featuring three main compartments in the same size, all with zip closure and a common clip buckle. The inside features a pocket for electronic devices of up to 13 inches and a zip pocket. Features two small front zip pockets. Top handle and two adjustable shoulder straps. Quilted back for improved comfort during use.Height x Length x Width 45 x 32 x 18 cm.View more"
+      },
+    {
+        "Product_offer": 1,
+        "Product_name": "FABRIC CROSSBODY BAG",
+        "link": "https://www.zara.com/in/en/fabric-crossbody-bag-p16020210.html",
+        "product_image": "https://static.zara.net/photos///2023/I/1/1/p/6020/210/716/2/w/448/6020210716_1_1_1.jpg?ts=1686314716035",
+        "Product_price": "? 2,890.00",
+        "description": "Fabric crossbody bag. Adjustable fabric crossbody strap. Zip closure.Height x Length x Width 42 x 24 x 15 cm. / 16.5 x 9.4 x 5.9"
+      },
+    {
+        "Product_offer": 4,
+        "Product_name": "100% WOOL SUIT BLAZER - LIMITED EDITION",
+        "link": "https://www.zara.com/in/en/100-wool-suit-blazer---limited-edition-p05828542.html",
+        "product_image": "https://static.zara.net/photos///2023/I/0/2/p/5828/542/800/2/w/448/5828542800_1_1_1.jpg?ts=1689334796692",
+        "Product_price": "? 11,990.00",
+        "description": "Blazer made of wool. Peak lapel collar and long sleeves with buttoned cuffs. Open chest pocket and flap pockets on the hip. Inner pocket detail. Back vent at the centre of the hem and a button-up front."
+      },
+    {
+       "Product_offer": 2,
+        "Product_name": "TAILORED WAISTCOAT",
+        "link": "https://www.zara.com/in/en/tailored-waistcoat-p02753535.html",
+        "product_image": "https://static.zara.net/photos///2023/I/0/1/p/2753/535/800/2/w/448/2753535800_1_1_1.jpg?ts=1691758137247",
+        "Product_price": "? 2,990.00",
+        "description": "Sleeveless waistcoat with a V-neck. Front jetted pockets on the front. Button-up front."
+      },
+    {
+        "Product_offer": 8,
+        "Product_name": "COTTON HOODIE",
+        "link": "https://www.zara.com/in/en/cotton-hoodie-p00761331.html",
+        "product_image": "https://static.zara.net/photos///2023/I/0/2/p/0761/331/712/3/w/448/0761331712_1_1_1.jpg?ts=1693233015377",
+        "Product_price": "? 3,990.00",
+        "description": "Hoodie made of compact cotton fabric. Adjustable hood and long sleeves. Front pouch pocket. Ribbed trims.Zara Athleticz."
+      },
+    {
+        "Product_offer": 15,
+        "Product_name": "SATIN DRESS",
+        "link": "https://www.zara.com/in/en/satin-dress-p01131807.html",
+        "product_image": "https://static.zara.net/photos///2023/I/0/1/p/1131/807/622/2/w/448/1131807622_1_1_1.jpg?ts=1692273229105",
+        "Product_price": "? 3,290.00",
+        "description": "Satin dress with a V-neckline and thin straps. Featuring an open back with a matching fabric strap."
+      },
+    
+    {
+        "Product_offer": 4,
+        "Product_name": "FAUX LEATHER BOMBER JACKET",
+        "link": "https://www.zara.com/in/en/faux-leather-bomber-jacket-p03918420.html",
+        "product_image": "https://static.zara.net/photos///2023/I/0/2/p/3918/420/800/2/w/448/3918420800_1_1_1.jpg?ts=1687947015813",
+        "Product_price": "? 4,990.00",
+        "description": "Jacket made of faux leather fabric. High neck and long sleeves. Welt pockets at the hip and interior pocket detail. Ribbed trims. Front zip fastening."
+      },
+    {
+        "Product_offer": 20,
+       "Product_name": "TRF DENIM CROPPED JACKET",
+        "link": "https://www.zara.com/in/en/trf-denim-cropped-jacket-p08197295.html",
+        "product_image": "https://static.zara.net/photos///2023/I/0/1/p/8197/295/400/3/w/448/8197295400_1_1_1.jpg?ts=1691743835514",
+        "Product_price": "? 3,990.00",
+        "description": "Collared jacket featuring long sleeves with cuffs. Front patch pockets. Ripped details. Seamless hem. Metal button fastening on the front."
+      },
+    {
+        "Product_offer": 2,
+        "Product_name": "STRAIGHT FIT RIPPED JEANS",
+        "link": "https://www.zara.com/in/en/straight-fit-ripped-jeans-p08062306.html",
+        "product_image": "https://static.zara.net/photos///2023/I/0/2/p/8062/306/427/2/w/448/8062306427_1_1_1.jpg?ts=1692780182445",
+        "Product_price": "? 3,290.00",
+        "description": "Straight fit jeans. Five pockets. Faded with rips on the legs. Front zip fly and button fastening."
+      },
+    {
+        "Product_offer": 45,
+        "Product_name": "WOOL BLEND BOXY-FIT KNIT SWEATER",
+        "link": "https://www.zara.com/in/en/wool-blend-boxy-fit-knit-sweater-p03039102.html",
+        "product_image": "https://static.zara.net/photos///2023/I/0/1/p/3039/102/527/17/w/448/3039102527_1_1_1.jpg?ts=1692892870664",
+        "Product_price": "? 3,990.00",
+        "description": "Knit sweater made of a wool blend. Round neck and long sleeves. Matching ribbed trims."
+      },
+     {
+        "Product_offer": 8,
+        "Product_name": "DIAGONAL TEXTURE OVERSHIRT",
+        "link": "https://www.zara.com/in/en/diagonal-texture-overshirt-p03057403.html",
+        "product_image": "https://static.zara.net/photos///2023/I/0/2/p/3057/403/802/2/w/448/3057403802_2_1_1.jpg?ts=1691138569348",
+        "Product_price": "? 5,990.00",
+        "description": "Collared regular fit overshirt made of diagonal textured fabric. Long sleeves with buttoned cuffs. Patch pockets with flaps on the chest and hip welt pockets. Button-up front hidden by a placket."
+      },
+    {
+        "Product_offer": 43,
+        "Product_name": "FADED-EFFECT MIDI SKIRT",
+        "link": "https://www.zara.com/in/en/faded-effect-midi-skirt-p01660807.html",
+        "product_image": "https://static.zara.net/photos///2023/I/0/1/p/1660/807/730/2/w/448/1660807730_1_1_1.jpg?ts=1691142489198",
+        "Product_price": "? 1,890.00",
+        "description": "Skirt made of faded cotton. Elasticated drawstring waistband. Back slit at the hem."
+      },
+    {
+        "Product_offer": 3,
+        "Product_name": "SEOUL 100 ML + LISBOA 100 ML",
+        "link": "https://www.zara.com/in/en/seoul-100-ml-lisboa-100-ml-p20210028.html",
+        "product_image": "https://static.zara.net/photos///2023/V/2/2/p/0210/028/999/2/w/448/0210028999_6_2_1.jpg?ts=1672907450133",
+        "Product_price": "? 1,590.00",
+        "description": "ZARA SEOUL 532-8 SINSA DONG + LISBOA COLOMBO AVENIDA DO COLEGIO (3.4 FL. OZ). Eau de toilette duo set. The scent reveals hints of hazelnut, pepper and amber (I) + lemon, green notes and musk (II).View more"
+      },
+    {
+        "Product_offer": 15,
+        "Product_name": "RUNNING TRAINERS",
+        "link": "https://www.zara.com/in/en/running-trainers-p15040210.html",
+        "product_image": "https://static.zara.net/photos///2023/I/1/1/p/5040/210/001/2/w/448/5040210001_6_1_1.jpg?ts=1692797405698",
+        "Product_price": "? 3,290.00",
+        "description": "Running trainers. Chunky sole. Lace-up fastening. Sole height: 5 cm. / 1.9"
+      },
+    {
+        "": 9,
+        "Product_name": "CONTRAST KNIT POLO SHIRT",
+        "link": "https://www.zara.com/in/en/contrast-knit-polo-shirt-p03003306.html",
+        "product_image": "https://static.zara.net/photos///2023/I/0/2/p/3003/306/700/2/w/448/3003306700_1_1_1.jpg?ts=1690360444523",
+        "Product_price": "? 3,290.00",
+        "description": "Collared knit polo shirt. Contrast button fastening on the front. Short sleeves. Ribbed trims."
+      },
+    {
+        "Product_offer": 2,
+        "Product_name": "SEMI-SHEER RHINESTONE SHIRT",
+        "link": "https://www.zara.com/in/en/semi-sheer-rhinestone-shirt-p07484162.html",
+        "product_image": "https://static.zara.net/photos///2023/I/0/1/p/7484/162/712/2/w/448/7484162712_1_1_1.jpg?ts=1692879489420",
+        "Product_price": "? 3,290.00",
+        "description": "Semi-sheer collared shirt with long cuffed sleeves and front fastening with rhinestone buttons."
+      },
+    {
+        "Product_offer": 6,
+        "Product_name": "MULTIPIECE TRAINERS",
+        "link": "https://www.zara.com/in/en/multipiece-trainers-p12236220.html",
+        "product_image": "https://static.zara.net/photos///2023/I/1/2/p/2236/220/202/2/w/448/2236220202_2_1_1.jpg?ts=1692608383106",
+        "Product_price": "? 2,990.00",
+        "description": "Trainers. Combination of materials, pieces and colours on the upper. Six-eyelet facing. Irregular and chunky sole."
+      },
+    {
+        "Product_offer": 2,
+        "Product_name": "SHORT JACQUARD BERMUDA SHORTS",
+        "link": "https://www.zara.com/in/en/short-jacquard-bermuda-shorts-p05862304.html",
+        "product_image": "https://static.zara.net/photos///2023/I/0/2/p/5862/304/251/2/w/448/5862304251_1_1_1.jpg?ts=1691079126778",
+        "Product_price": "? 3,290.00",
+        "description": "Short Bermuda shorts made of a cotton blend fabric. Adjustable elasticated waistband with inner drawstring. Front hip pockets and rear patch pocket detail."
+      },
+    {
+       "Product_offer": 4,
+        "Product_name": "DENIM SHIRT",
+        "link": "https://www.zara.com/in/en/denim-shirt-p01820320.html",
+        "product_image": "https://static.zara.net/photos///2023/I/0/2/p/1820/320/800/2/w/448/1820320800_1_1_1.jpg?ts=1689760696023",
+        "Product_price": "? 2,990.00",
+        "description": "Collared relaxed fit shirt made of denim. Long sleeves with buttoned cuffs. Chest patch pockets. Faded effect. Button-up front."
+      },
+    
+    {
+        "Product_offer": 13,
+        "Product_name": "RIBBED COTTON SWEATER",
+        "link": "https://www.zara.com/in/en/ribbed-cotton-sweater-p03284307.html",
+        "product_image": "https://static.zara.net/photos///2023/I/0/2/p/3284/307/818/2/w/448/3284307818_1_1_1.jpg?ts=1692951283878",
+        "Product_price": "? 2,990.00",
+        "description": "Sweater made of spun cotton fabric. Round neck and long sleeves. Ribbed trims."
+      },
+    {
+        "Product_offer": 11,
+        "Product_name": "LONG GEOMETRIC PRINT SWIMMING TRUNKS",
+        "link": "https://www.zara.com/in/en/long-geometric-print-swimming-trunks-p08574372.html",
+        "product_image": "https://static.zara.net/photos///2023/I/0/2/p/8574/372/500/2/w/448/8574372500_6_1_1.jpg?ts=1688556252826",
+        "Product_price": "? 2,590.00",
+        "description": "Swimming trunks made of technical fabric with a velvety finish and an elasticated waistband. Featuring front pockets, a rear patch pocket, lining and front zip fly and snap-button fastening. Length of inner leg seam: 17 cm. / 6.6"
+      },
+    {
+        "Product_offer": 25,
+        "Product_name": "PLEATED TROUSERS",
+        "link": "https://www.zara.com/in/en/pleated-trousers-p06861336.html",
+        "product_image": "https://static.zara.net/photos///2023/I/0/2/p/6861/336/800/2/w/448/6861336800_1_1_1.jpg?ts=1692181731410",
+        "Product_price": "? 4,990.00",
+        "description": "Straight fit trousers. Waist with front pleated details. Front pockets and rear pocket details. Turn-up hems. Front zip fly and button fastening."
+      },
+     {
+        "Product_offer": 6,
+        "Product_name": "SWEATSHIRT WITH PRINTED SLOGANS",
+        "link": "https://www.zara.com/in/en/sweatshirt-with-printed-slogans-p00722355.html",
+        "product_image": "https://static.zara.net/photos///2023/I/0/2/p/0722/355/802/2/w/448/0722355802_1_1_1.jpg?ts=1692951281874",
+        "Product_price": "? 2,990.00",
+        "description": "Loose-fitting sweatshirt with a round neck and short sleeves. Featuring a contrast slogan print all over the garment."
+      }
+    ]

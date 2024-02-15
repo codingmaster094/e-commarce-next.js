@@ -1,0 +1,30 @@
+#form {
+    background-color: #EEF7F1;
+}
+
+#Kategori {
+    height: 38px;
+    border: 1px solid #CED4D9;
+    border-radius: 3px;
+}
+
+
+#loginform {
+    border: 10px solid gray;
+    background-color: rgb(199, 194, 194);
+    opacity: 0.8;
+}
+
+#adminbody {
+    background: rgb(2,0,36);
+    background: linear-gradient(90deg, rgba(2,0,36,1) 0%, rgba(89,44,111,1) 46%, rgba(98,29,93,1) 98%);
+}
+
+#invalidlogin {
+    display: none;
+}
+#loginbutton {
+    position: absolute;
+    left: 44.5%;
+    top: 430px;
+}

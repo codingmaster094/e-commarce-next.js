@@ -1,0 +1,9 @@
+.carousel_inner{
+    height: 60vh !important;
+    width: 100%;
+    overflow: hidden;
+    display: flex;
+    justify-content: center;
+}
+
+
